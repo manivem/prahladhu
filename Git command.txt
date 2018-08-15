@@ -1,0 +1,17 @@
+llllgit clone
+git branch to verify the git
+git status to verify changes file
+git -b "branch name" or 
+git checkout mmallavali (above branch name)
+git branch 
+vi editor add changes
+git add filename or git add*( to add all the files or changes at a time)
+git push origin 
+
+merge reqest or pull requst 
+creat merge request to some one he will review the code ( added code from you)
+
+
+
+
+
